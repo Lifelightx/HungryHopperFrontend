@@ -21,24 +21,7 @@ function About() {
           </p>
         </section>
 
-        <section className="bg-white p-8 rounded-md shadow-md mb-8">
-          <h2 className="text-2xl font-bold text-gray-800 mb-4">Meet the Team</h2>
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-            <div className="bg-gray-200 p-6 rounded-md text-center">
-              <img src="team-member1.jpg" alt="Team Member 1" className="w-32 h-32 mx-auto rounded-full mb-4"/>
-              <h3 className="text-xl font-semibold text-gray-800">Team Member 1</h3>
-              <p className="text-gray-600">Position</p>
-              <p className="text-gray-500">A brief bio about Team Member 1.</p>
-            </div>
-            <div className="bg-gray-200 p-6 rounded-md text-center">
-              <img src="team-member2.jpg" alt="Team Member 2" className="w-32 h-32 mx-auto rounded-full mb-4"/>
-              <h3 className="text-xl font-semibold text-gray-800">Team Member 2</h3>
-              <p className="text-gray-600">Position</p>
-              <p className="text-gray-500">A brief bio about Team Member 2.</p>
-            </div>
-            {/* Add more team members as needed */}
-          </div>
-        </section>
+        
 
         <section className="bg-white p-8 rounded-md shadow-md">
           <h2 className="text-2xl font-bold text-gray-800 mb-4">Get in Touch</h2>

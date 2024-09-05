@@ -25,7 +25,7 @@ function Navbar({ onloginClick }) {
           Home
         </Link>
         <Link to="/menu" className="hover:text-orange-500">
-          Menu
+          Services
         </Link>
         <Link to="/contact" className="hover:text-orange-500">
           Contact us
