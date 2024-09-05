@@ -17,7 +17,7 @@ function About() {
         <section className="bg-white p-8 rounded-md shadow-md mb-8">
           <h2 className="text-2xl font-bold text-gray-800 mb-4">Our Mission</h2>
           <p className="text-gray-700 leading-relaxed">
-            Our mission is to [describe your mission in detail]. We believe in [mention any core values or principles] and are committed to [explain how you fulfill your mission or values].
+            Our mission is to revolutionize the way people experience food delivery by offering a convenient, user-friendly platform that connects users with their favorite restaurants. We believe in delivering quality, speed, and reliability and are committed to providing a seamless and enjoyable ordering experience for all users. By utilizing cutting-edge technology, we ensure that our platform is intuitive, fast, and accessible across devices, helping customers satisfy their cravings with minimal effort. At the core of our mission is a dedication to customer satisfaction, innovation, and continuous improvement 
           </p>
         </section>
 
